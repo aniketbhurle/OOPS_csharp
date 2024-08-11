@@ -14,12 +14,7 @@
 			bank1.CheckBalanace();
 			bank1.WithdrawMoney();
 			bank1.ValidateCard();
-
-
-
-
-
-
+			 
 			Console.ReadKey();
 		}
 	}
