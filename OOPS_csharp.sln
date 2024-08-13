@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulation_Demo", "Encap
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstraction_Interface", "Abstraction_Interface\Abstraction_Interface.csproj", "{35A3FB8F-54CC-4E61-9717-0C9F552D918D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction_abstract", "Abstraction_abstract\Abstraction_abstract.csproj", "{BB9D2212-B1F3-4185-9132-844FEF05DC74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstraction_abstract", "Abstraction_abstract\Abstraction_abstract.csproj", "{BB9D2212-B1F3-4185-9132-844FEF05DC74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Single_Inheritance", "Single_Inheritance\Single_Inheritance.csproj", "{545154D1-6DCA-4CAB-9519-8D9AB82FF9B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Single_Inheritance", "Single_Inheritance\Single_Inheritance.csproj", "{545154D1-6DCA-4CAB-9519-8D9AB82FF9B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClasses_AbsMethod", "AbstractClasses_AbsMethod\AbstractClasses_AbsMethod.csproj", "{E707D0D9-0EB4-4BE6-818E-C38A7F7E03B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{545154D1-6DCA-4CAB-9519-8D9AB82FF9B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{545154D1-6DCA-4CAB-9519-8D9AB82FF9B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{545154D1-6DCA-4CAB-9519-8D9AB82FF9B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E707D0D9-0EB4-4BE6-818E-C38A7F7E03B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E707D0D9-0EB4-4BE6-818E-C38A7F7E03B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E707D0D9-0EB4-4BE6-818E-C38A7F7E03B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E707D0D9-0EB4-4BE6-818E-C38A7F7E03B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
